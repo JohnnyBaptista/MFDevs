@@ -1,0 +1,49 @@
+.cardapio{
+    height:1000px;
+    width: 800px;
+    position: relative;
+    margin: 0 auto;
+    top: 35px;
+    }
+    
+    .texto{
+    margin-top: 110px;
+    text-align: center;
+    vertical-align: 60px;
+    font-family: 'Comfortaa', cursive;
+    position: relative;
+    top:0;
+    color:white;
+    
+    }
+    
+    .texto2{
+        margin-top: 40px;
+        text-align: center;
+        vertical-align: 60px;
+        font-family: 'Comfortaa', cursive;
+        position: relative;
+        top:0;
+        color:white;    
+    }
+    
+    .fundo{
+    height:100%;
+    width: 100%;
+    
+    }
+    
+    
+    .bg{
+        background-image: url("../img/bg-img.jpeg");
+        height: 100rem;
+        width: 100%;
+        background-size:220% auto;
+        
+    }
+
+
+
+
+
+     
